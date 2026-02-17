@@ -1,7 +1,7 @@
 # Economics 201 Notes
 Thinking I might keep a horrific html version of my econ 201 notes and build some small projects along the way. Check it out:
 
-https://petrusmelly.github.io/indexApp/
+[https://petrusmelly.github.io/indexApp/](url)
 
 ## Updates
 ### Added an Index Table
